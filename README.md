@@ -26,5 +26,5 @@
 ### 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/focus-quest.git
+git clone https://github.com/fred-dev999/focus-quest.git
 cd focus-quest
