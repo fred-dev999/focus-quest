@@ -14,13 +14,6 @@
 
 ---
 
-## 📷 Preview
-
-![screenshot](assets/images/preview.png)  
-*(Add a screenshot or GIF of your app here later)*
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repo:
